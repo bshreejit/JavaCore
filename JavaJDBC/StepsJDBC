@@ -1,0 +1,13 @@
+Steps:
+
+1. import the package --> java.sql.*
+2. load and register diver 
+	---> oracle driver for oracle dbms
+	---> mysql driver for mysql dbms
+			com.mysql.jdbc.Driver(import the jar file)
+
+3. create a connection
+4. create a statement
+5. execute the query
+6  process the result
+7. close
