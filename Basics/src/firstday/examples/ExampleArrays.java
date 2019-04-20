@@ -3,7 +3,7 @@ package firstday.examples;
 public class ExampleArrays {
 	public static void main(String[] args) {
 
-		int[] a = { 1, 2, 3, 4, 6, 1 };
+		int a[] = { 1, 2, 3, 4, 6, 1 };
 		
 		/*//Normal Practice
 		for (int i = 0; i <= 2; i++) {

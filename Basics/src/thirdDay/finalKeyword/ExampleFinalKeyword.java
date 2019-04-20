@@ -13,7 +13,7 @@ public class ExampleFinalKeyword {
 	3.Final Class
 		cann't be sub-classed. 
 	 */
-	final double pi=3.14;//declaring constant value, can't change this data
+	final double pi=3.14;//declaring constant value, & can't change this data
 	
 	//can be overridden
 	public void methodA() {

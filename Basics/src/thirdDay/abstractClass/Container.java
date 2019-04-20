@@ -8,7 +8,7 @@ public abstract class Container {
 	
 	
 	public abstract double calculateAreaOfBase(int length);
-	/*This method is declared right here but not defined
+	/*This method is declared right here but not defined.
 	 * Its because this method have two separate values for
 	 * base of cylinder i.e circle and base of cube i.e square.
 	 * So this is an empty method and abstract keyword is used 

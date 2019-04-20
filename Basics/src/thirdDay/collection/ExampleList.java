@@ -34,7 +34,7 @@ public class ExampleList {
 			 * syso(temp);
 			 * }
 			 * */
-		//Every class extends a Object class naturally 
+		//Every class extends a "Object" class naturally 
 		for(Object temp:list) {
 			System.out.println(temp);
 		}

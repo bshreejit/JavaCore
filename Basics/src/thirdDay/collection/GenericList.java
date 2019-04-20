@@ -15,9 +15,9 @@ public class GenericList {
 		list.add("Bhattarai");
 		//list.add(5);can't add an number
 		
-		//Removing element from index 2 in list
+		//Removing element from index 1 i.e "From" in list
 			list.remove(1);
-		//Removing element "From" form the list 
+		//Removing element "Bhattarai" form the list 
 			list.remove("Bhattarai");
 		
 		//Adding a element in specific index in this case index=1

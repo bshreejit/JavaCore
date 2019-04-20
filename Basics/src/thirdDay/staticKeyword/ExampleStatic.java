@@ -14,7 +14,7 @@ public class ExampleStatic {
 	static public void staticMethod() {
 		System.out.println("Static variable = " + staticVariable);
 		staticVariable++;
-		//static methods can only the static data and methods 
+		//static methods can only use the static data and methods 
 	}
 	
 	public void nonStaticMethod() {

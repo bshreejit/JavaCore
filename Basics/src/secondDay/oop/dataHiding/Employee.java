@@ -2,8 +2,7 @@ package secondDay.oop.dataHiding;
 
 public class Employee {
 	private double salary;/*here salary is only
-	 visible and can be set 
-	 in this current class only */
+	 visible and can be set in this current class only */
 	private double bonus;
 
 // Not mentioning anything means default access

@@ -16,7 +16,7 @@ public class TestContainer {
 		c1.calculateVolume(10,5);
 		
 		 
-		/*Also another use is this is that we
+		/*Also another use is that we
 		 * can reuse the previously created object c1*/
 		c1=new SquareContainer();
 		c1.calculateVolume(10,5);
